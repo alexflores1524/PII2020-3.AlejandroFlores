@@ -1,0 +1,15 @@
+
+
+
+body{
+    font-family: monospace;
+    background-color: #4e8098;
+    color: #092327;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+body > header > h1 >a{
+    text-decoration: none;
+}
+
