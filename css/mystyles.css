@@ -24,4 +24,30 @@ nav > ol{
     background-color: #9FB1BC;
 }
 
+body > article > section {
+    text-align: justify;
+}
+
+section.text-one{
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#id-example-one{
+ background-color: #636363;
+ color: #c5d5ea;
+ padding-left: 50px;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ padding-right: 50px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+body > footer {
+    text-align: center;
+}
+
 
