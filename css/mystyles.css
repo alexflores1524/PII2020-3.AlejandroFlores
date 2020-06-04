@@ -3,13 +3,25 @@
 
 body{
     font-family: monospace;
-    background-color: #4e8098;
-    color: #092327;
+    background-color: #6E8898;
+    color: #2E5266;
     padding-left: 100px;
     padding-top: 100px;
+    padding-right: 100px;
 }
 
 body > header > h1 >a{
     text-decoration: none;
 }
+
+nav > ol{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center; 
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #9FB1BC;
+}
+
 
